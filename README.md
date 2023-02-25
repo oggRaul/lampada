@@ -1,2 +1,0 @@
-# lampada
-Lâmpa js
